@@ -17,3 +17,4 @@ C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.DataAccess
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json

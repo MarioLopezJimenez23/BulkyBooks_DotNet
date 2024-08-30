@@ -292,3 +292,6 @@ C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\bin\Deb
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
