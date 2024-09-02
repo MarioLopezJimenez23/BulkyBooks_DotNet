@@ -3,12 +3,101 @@
   "WorkspaceRootPath": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario.lopez\\AppData\\Local\\SourceServer\\19bd0d289eb90627d0cfa3f703bc2cc17bc206aa66e8c1bd1a74b338df627bd8\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario.lopez\\AppData\\Local\\SourceServer\\d96d0e31e86d372c90415e161097d3848cac2929a0eaa160f3569a547cbba0af\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\repository\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\repository\\irepository\\iproductimagerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E127A62-5874-4778-AE3C-A1081296C1FC}|..\\Bulky.Models\\Bulky.Models.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E127A62-5874-4778-AE3C-A1081296C1FC}|..\\Bulky.Models\\Bulky.Models.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.models\\produtcimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,8 +107,10 @@
       "AbsoluteMoniker": "D:0:0:{6E127A62-5874-4778-AE3C-A1081296C1FC}|..\\Bulky.Models\\Bulky.Models.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.models\\aplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A336A0-08BE-4B4D-92DF-D1FD5E7BFC04}|BulkyWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\migrations\\20240902110747_addproductimagestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93CA35E-9BE1-46B0-8081-142EE2FB7A5A}|..\\Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mario.lopez\\documents\\formaciones\\netcore\\ecommerceapp\\bulky.dataaccess\\migrations\\20240902105226_removeimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +120,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,7 +132,327 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\ShoppingCartViewComponent.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\ShoppingCartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:06:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAWwMIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:01:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T12:01:14.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T12:00:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\AppData\\Local\\SourceServer\\19bd0d289eb90627d0cfa3f703bc2cc17bc206aa66e8c1bd1a74b338df627bd8\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\19bd0d289eb90627d0cfa3f703bc2cc17bc206aa66e8c1bd1a74b338df627bd8\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\AppData\\Local\\SourceServer\\19bd0d289eb90627d0cfa3f703bc2cc17bc206aa66e8c1bd1a74b338df627bd8\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\19bd0d289eb90627d0cfa3f703bc2cc17bc206aa66e8c1bd1a74b338df627bd8\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:58:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExternalLogins.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\AppData\\Local\\SourceServer\\d96d0e31e86d372c90415e161097d3848cac2929a0eaa160f3569a547cbba0af\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\d96d0e31e86d372c90415e161097d3848cac2929a0eaa160f3569a547cbba0af\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\AppData\\Local\\SourceServer\\d96d0e31e86d372c90415e161097d3848cac2929a0eaa160f3569a547cbba0af\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\d96d0e31e86d372c90415e161097d3848cac2929a0eaa160f3569a547cbba0af\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:58:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:55:42.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAHsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:51:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCgAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:21:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:42:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:09:28.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:08:18.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240902110747_addProductImagesToDb.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Migrations\\20240902110747_addProductImagesToDb.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Migrations\\20240902110747_addProductImagesToDb.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Migrations\\20240902110747_addProductImagesToDb.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Migrations\\20240902110747_addProductImagesToDb.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:07:47.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\ProductImageRepository.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\ProductImageRepository.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\ProductImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:04:55.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductImageRespository.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\IRepository\\IProductImageRespository.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\IRepository\\IProductImageRespository.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\IRepository\\IProductImageRespository.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\IRepository\\IProductImageRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:04:16.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:03:25.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProdutcImage.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.Models\\ProdutcImage.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.Models\\ProdutcImage.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.Models\\ProdutcImage.cs",
+              "RelativeToolTip": "..\\Bulky.Models\\ProdutcImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:02:13.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240902105226_removeImageUrl.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Migrations\\20240902105226_removeImageUrl.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Migrations\\20240902105226_removeImageUrl.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Migrations\\20240902105226_removeImageUrl.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Migrations\\20240902105226_removeImageUrl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:52:26.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:50:40.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:50:33.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:49:59.384Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:49:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:46:51.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:46:40.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA+wBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:46:15.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.Models\\Product.cs",
+              "RelativeToolTip": "..\\Bulky.Models\\Product.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:45:40.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "user.js",
               "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\js\\user.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\user.js",
@@ -49,12 +460,11 @@
               "RelativeToolTip": "wwwroot\\js\\user.js",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-02T08:55:11.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T08:55:11.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 27,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Notification.cshtml",
@@ -62,12 +472,11 @@
               "RelativeToolTip": "Views\\Shared\\_Notification.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T08:50:58.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T08:50:58.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 28,
               "Title": "AplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\Bulky.Models\\AplicationUser.cs",
               "RelativeDocumentMoniker": "..\\Bulky.Models\\AplicationUser.cs",
@@ -75,31 +484,30 @@
               "RelativeToolTip": "..\\Bulky.Models\\AplicationUser.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T08:45:31.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T08:45:31.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAeAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T08:41:07.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFwAAABeAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-02T08:38:56.145Z",
               "EditorCaption": ""

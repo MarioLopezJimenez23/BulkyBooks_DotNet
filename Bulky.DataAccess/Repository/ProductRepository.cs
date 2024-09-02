@@ -33,10 +33,8 @@ namespace Bulky.DataAccess.Repository
                 productDB.ListPrice = product.ListPrice;
                 productDB.Author = product.Author;
                 productDB.ISBN = product.ISBN;
-                if (!string.IsNullOrEmpty(product.ImageUrl))
-                {
-                    productDB.ImageUrl = product.ImageUrl;
-                }
+                productDB.ProductImages = product.ProductImages;
+                
             }
         }
     }

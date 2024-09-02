@@ -10,3 +10,4 @@ C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.Utility\ob
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
 C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\mario.lopez\Documents\Formaciones\NetCore\EcommerceApp\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
