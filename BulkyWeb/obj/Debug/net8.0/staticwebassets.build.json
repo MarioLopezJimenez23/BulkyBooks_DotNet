@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WmqnEIIPqtOPaKJd9/Vf6IHZ6QXsOq5vBh0+8f3EZKA=",
+  "Hash": "CT8RRmnh69lVOFLejys32bquFBDrDFXeU+Q9Z7MgZko=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1385,6 +1385,25 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\cb1820a1-9ab8-4af3-924e-0867d4ce6ecc.jpg"
     },
     {
+      "Identity": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\images\\wow.png",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/wow.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wow.png"
+    },
+    {
       "Identity": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\js\\company.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -1459,6 +1478,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\js\\user.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
       "Identity": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

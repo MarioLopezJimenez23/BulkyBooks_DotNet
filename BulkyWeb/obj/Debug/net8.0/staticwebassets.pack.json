@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\product\\cb1820a1-9ab8-4af3-924e-0867d4ce6ecc.jpg"
     },
     {
+      "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\images\\wow.png",
+      "PackagePath": "staticwebassets\\images\\wow.png"
+    },
+    {
       "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
@@ -59,6 +63,10 @@
     {
       "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
       "Id": "C:\\Users\\mario.lopez\\Documents\\Formaciones\\NetCore\\EcommerceApp\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
