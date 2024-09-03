@@ -24,11 +24,11 @@
                         
                         <div class="card-body pb-0">
                             <div class="pl-1">
-                                <p class="card-title h5 text-light opacity-75 text-uppercase text-center">@product.Title</p>
-                                <p class="card-title text-warning text-center">by <b>@product.Author</b></p>
+                                <p class="card-title text-primary h5 text-uppercase text-center">@product.Title</p>
+                                <p class="card-title text-info text-center">by <b>@product.Author</b></p>
                             </div>
                             <div class="pl-1">
-                                <p class="text-light text-opacity-75 text-center mb-0">
+                                <p class="text-opacity-75 text-center mb-0">
                                     List Price: 
                                     <span class="text-decoration-line-through">
                                         @product.ListPrice.ToString("c")
@@ -36,7 +36,7 @@
                                 </p>
                             </div>
                             <div class="pl-1">
-                                <p class="text-light text-opacity-75 text-center">As low as: 
+                                <p class="text-opacity-75 text-center">As low as: 
                                     <span>
                                         @product.Price100.ToString("c")
                                     </span>

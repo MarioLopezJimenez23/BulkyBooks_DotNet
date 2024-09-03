@@ -8,12 +8,12 @@
 			<div class="card-header bg-secondary bg-gradient text-light ml-0 py-4">
 				<div class="row px-4">
 					<div class="col-6">
-						<h5 class="pt-2 text-white">
+						<h5 class="pt-2 text-warning">
 							Order Summary
 						</h5>
 					</div>
 					<div class="col-6 text-end">
-						<a asp-action="Index" class="btn btn-outline-danger btn-sm">Back to Cart</a>
+						<a asp-action="Index" class="btn btn-danger btn-sm">Back to Cart</a>
 					</div>
 				</div>
 			</div>
@@ -98,7 +98,7 @@
 								}
 
 								<li class="list-group-item d-flex justify-content-between bg-light">
-									<small class="text-info">Total (USD)</small>
+									<small class="text-info">Total (EUR)</small>
 									<strong class="text-info">@Model.OrderHeader.OrderTotal.ToString("c")</strong>
 								</li>
 							</ul>
